@@ -299,7 +299,7 @@ if submitted:
 # ---------------------------
 # Tips & How-to
 # ---------------------------
-with st.expander(ℹ️ Usage Tips"):
+with st.expander("ℹ️ Usage Tips"):
     st.markdown(
         """
         **Data Requirements**
